@@ -6,7 +6,7 @@ date: "`r Sys.Date()`"
 output: pdf_document
 bibliography: Project1.bib
 ---
-
+ 
 ```{r setup, include=FALSE}
 # Load library
 library(knitr)
