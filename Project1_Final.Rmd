@@ -1,5 +1,6 @@
 ---
 title: "Project 1"
+subtitle: "[Github Link](https://github.com/Rosy98/PHP2550-Project-1)"
 author: "Zihan Zhou"
 date: "`r Sys.Date()`"
 output: pdf_document
